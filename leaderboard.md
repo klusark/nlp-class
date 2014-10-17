@@ -10,7 +10,6 @@ jquery: true
 
 Submit your assignments [here](http://sfu-nlp-class.appspot.com). Results will be updated in a few minutes.
 
-<script type="text/javascript" src="//sfu-nlp-class.appspot.com/leaderboard.js"></script>
 
 <table class="table table-hover table-condensed">
   <thead>
@@ -47,6 +46,7 @@ Submit your assignments [here](http://sfu-nlp-class.appspot.com). Results will b
   </tbody>
 </table>
 
+<script type="text/javascript" src="//sfu-nlp-class.appspot.com/leaderboard.js"></script>
 <script type="text/javascript" src="leaderboard-code.js"></script>
 
 <div class="panel panel-default"> 
